@@ -20,3 +20,11 @@ GTK-3 Theme:
 ------------
 
 Fixed checkbox-checked-active.png
+
+Changelog: 27.12.2020.
+----------------------
+
+Plasma Themes
+--------------
+
+Fixed icon: media.svg
