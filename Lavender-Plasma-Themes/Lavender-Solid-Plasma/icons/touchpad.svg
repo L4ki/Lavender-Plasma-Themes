@@ -54,7 +54,7 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1019"
+     inkscape:window-height="1007"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
@@ -86,12 +86,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <title
-     id="title8473"></title>
+     id="title8473" />
   <defs
      id="defs7386">
     <linearGradient
@@ -131,12 +131,12 @@
       <path
          inkscape:connector-curvature="0"
          id="rect4148"
-         d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"
+         d="m 425.0002,-165.00336 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 h -22 c 0,0 0,0 0,0 v -22 c 0,0 0,0 0,0 z"
          style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          id="path5073"
          d="m 443.80098,-146.00336 c 1.2,0 1.19922,-1.23047 1.19922,-1.23047 v -13.53906 c 0,0 7.8e-4,-1.23047 -1.19922,-1.23047 h -15.60156 c 0,0 -1.19922,-3e-4 -1.19922,1.23047 v 13.53906 c 0,1.23077 1.19922,1.23047 1.19922,1.23047 z m -12.80078,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 12,-3 h -6 v -3 h 6 z m -8,0 h -6 v -3 h 6 z"
-         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
@@ -144,11 +144,11 @@
        inkscape:label="#g4200">
       <path
          style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 447.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"
+         d="m 447.0002,-165.00336 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 h -22 c 0,0 0,0 0,0 v -22 c 0,0 0,0 0,0 z"
          id="path4172"
          inkscape:connector-curvature="0" />
       <path
-         style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="opacity:0.4;fill:#d3dae3;fill-opacity:1;stroke:none"
          d="m 465.80098,-146.00336 c 1.2,0 1.19922,-1.23047 1.19922,-1.23047 v -13.53906 c 0,0 7.8e-4,-1.23047 -1.19922,-1.23047 h -15.60156 c 0,0 -1.19922,-3e-4 -1.19922,1.23047 v 13.53906 c 0,1.23077 1.19922,1.23047 1.19922,1.23047 z m -12.80078,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 0,-2 h -2 v -1 h 2 z m 12,-3 h -6 v -3 h 6 z m -8,0 h -6 v -3 h 6 z"
          id="222"
          inkscape:connector-curvature="0"
