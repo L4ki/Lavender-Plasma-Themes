@@ -7,15 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg"
-   width="100%"
-   height="100%"
+   width="32"
+   height="32"
    version="1.1"
-   viewBox="0 0 22 22"
+   id="svg12"
    sodipodi:docname="konv_message.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata11">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,6 +24,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,39 +37,123 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
-     id="namedview9"
+     id="namedview14"
      showgrid="false"
-     inkscape:zoom="7.1363636"
-     inkscape:cx="53.900864"
-     inkscape:cy="-4.4486619"
+     inkscape:zoom="6.9384853"
+     inkscape:cx="30.870533"
+     inkscape:cy="37.482185"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg"
+     inkscape:current-layer="svg12"
      inkscape:document-rotation="0" />
-  <defs
-     id="defs81">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-  </style>
-  </defs>
   <g
-     id="g10">
+     id="konv_message"
+     transform="translate(32,10)">
     <rect
-       id="rect3009"
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="-32"
+       y="-10"
+       id="rect7" />
+    <g
+       id="g935">
+      <path
+         fill="none"
+         stroke-width="0.957987"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         d="M -4.407288,-3.1378397 V 10.245266 c 0,0.883195 -0.7159725,1.599168 -1.5991672,1.599168 H -17.105044 l -5.931299,5.460634 v -5.460634 h -2.997496 c -0.883196,0 -1.599167,-0.715973 -1.599167,-1.599168 V -3.1378397 c 0,-0.8831955 0.715971,-1.599167 1.599167,-1.599167 h 20.0273838 c 0.8831952,0 1.5991672,0.7159715 1.5991672,1.599167 z"
+         id="path2"
+         style="stroke:#7171a8;stroke-opacity:1" />
+      <circle
+         fill="none"
+         stroke-width="0.957987"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         cx="-22.626572"
+         cy="2.5261276"
+         r="1.4968543"
+         id="circle8"
+         style="stroke:#7171a8;stroke-opacity:1" />
+      <circle
+         fill="none"
+         stroke-width="0.957987"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         cx="-16.020147"
+         cy="2.5261276"
+         r="1.4968543"
+         id="circle10"
+         style="stroke:#7171a8;stroke-opacity:1" />
+      <circle
+         fill="none"
+         stroke-width="0.957987"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         cx="-9.413723"
+         cy="2.5261276"
+         r="1.4968543"
+         id="circle12"
+         style="stroke:#7171a8;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     id="22-22-konv_message"
+     transform="translate(32,10)">
+    <rect
+       style="opacity:0.00100002"
        width="22"
        height="22"
        x="0"
        y="0"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:0.001" />
-  </g>
-  <g
-     id="konv_message"
-     transform="matrix(0.24236931,0,0,0.24236931,-47.442139,-31.662789)">
+       id="rect2" />
     <path
-       id="path2"
-       d="m 280.98458,144.27815 h -48 c -1.1,0 -2,0.9 -2,2 v 14 h -30 c -1.1,0 -2,0.9 -2,2 v 32 c 0,1.1 0.9,2 2,2 h 8 v 12 c 0,3 2.9,1.9 3.4,1.4 l 13.4,-13.4 h 23.2 c 1.1,0 2,-0.9 2,-2 v -14 h 5.3 l 13.3,13.4 c 1.3,1.3 3.4,0.3 3.4,-1.4 v -12 h 8 c 1.1,0 2,-0.9 2,-2 v -32 c 0,-1.1 -0.9,-2 -2,-2 z m -34,48 h -22 c -0.5,0 -1,0.2 -1.4,0.6 l -10.6,10.6 v -9.2 c 0,-1.1 -0.9,-2 -2,-2 h -8 v -28 h 28 v 14 c 0,1.1 0.9,2 2,2 h 14 z m 32,-16 h -8 c -1.1,0 -2,0.9 -2,2 v 9.2 l -10.5,-10.6 c -0.4,-0.4 -0.9,-0.6 -1.4,-0.6 h -22.1 v -28 h 44 z"
-       style="fill:#7171a8;fill-opacity:1" />
+       fill="none"
+       stroke-width="0.583122"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="m 18.299955,5.3389671 v 8.1462379 c 0,0.537597 -0.43581,0.973407 -0.973407,0.973407 H 10.570886 L 6.9605298,17.782476 V 14.458612 H 5.1359672 c -0.5375973,0 -0.973406,-0.43581 -0.973406,-0.973407 V 5.3389671 c 0,-0.5375972 0.4358087,-0.9734059 0.973406,-0.9734059 H 17.326548 c 0.537598,0 0.973407,0.4358087 0.973407,0.9734059 z"
+       id="path2-5"
+       style="stroke:#7171a8;stroke-opacity:1" />
+    <circle
+       fill="none"
+       stroke-width="0.583122"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       cx="7.2099557"
+       cy="8.7865992"
+       r="0.91112864"
+       id="circle8-5"
+       style="stroke:#7171a8;stroke-opacity:1" />
+    <circle
+       fill="none"
+       stroke-width="0.583122"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       cx="11.231257"
+       cy="8.7865992"
+       r="0.91112864"
+       id="circle10-6"
+       style="stroke:#7171a8;stroke-opacity:1" />
+    <circle
+       fill="none"
+       stroke-width="0.583122"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       cx="15.25256"
+       cy="8.7865992"
+       r="0.91112864"
+       id="circle12-2"
+       style="stroke:#7171a8;stroke-opacity:1" />
   </g>
 </svg>
