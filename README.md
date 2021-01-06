@@ -28,3 +28,25 @@ Plasma Themes
 --------------
 
 Fixed icon: media.svg
+
+Changelog: 06.01.2021.
+----------------------
+
+Plasma Themes
+--------------
+
+Icons correction
+
+
+Icons
+-----
+
+Added icons: folder-KDE, folder-Neon, folder-openSUSE, folder-Manjaro, folder-reddit
+
+GTK-3 Theme
+-----------
+
+Fifed icons: checkbox-checked-active
+
+
+
