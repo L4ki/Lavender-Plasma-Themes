@@ -58,5 +58,14 @@ Icons
 
 Added icons: folder-Github.svg, folder-Pop_OS.svg
 
+Plasma Themes:
+---------------
+
+Fixed Icons: device.svg, disk.svg, drive.svg, input.svg, klipper.svg, kmail.svg, mail.svg, media.svg, preferences.svg, printer.svg, system.svg
+
+Added icons: kate.svg, radshift.svg
+
+Fixed widget: viewitem.svg, action-overlays.svg
+
 
 
