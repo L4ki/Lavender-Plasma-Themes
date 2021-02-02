@@ -53,5 +53,10 @@ Changelog: 02.02.2021.
 
 Fixed icon: checkbox-checked.png
 
+Icons
+------
+
+Added icons: folder-Github.svg, folder-Pop_OS.svg
+
 
 
