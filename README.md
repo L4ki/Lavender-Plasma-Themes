@@ -48,5 +48,10 @@ GTK-3 Theme
 
 Fifed icons: checkbox-checked-active
 
+Changelog: 02.02.2021.
+----------------------
+
+Fixed icon: checkbox-checked.png
+
 
 
